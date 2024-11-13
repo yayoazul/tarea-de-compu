@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 
-/* Fondo general y fuente base */
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f7f7f7;
@@ -12,14 +12,14 @@ body {
     line-height: 1.6;
 }
 
-/* Contenedor para centrar el contenido */
+
 .container {
     width: 90%;
     max-width: 1200px;
     margin: 0 auto;
 }
 
-/* Estilo del encabezado */
+
 header {
     background-color: #4CAF50;
     color: white;
@@ -37,7 +37,7 @@ header p {
     font-size: 1.3em;
 }
 
-/* Estilos de la sección de historia */
+
 .history {
     background-color: white;
     padding: 40px 20px;
@@ -71,7 +71,7 @@ header p {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-/* Estilos de la sección de hitos importantes */
+
 .milestones {
     background-color: #fff;
     padding: 40px 20px;
@@ -106,7 +106,7 @@ header p {
     top: 0;
 }
 
-/* Estilos del pie de página */
+
 footer {
     background-color: #333;
     color: white;
